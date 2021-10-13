@@ -8,7 +8,6 @@ void printString(std::string s) {
 }
 
 void printTest(std::string s) {
-	std::cout << "--------------------------" << std::endl;
 	std::cout << "String is \"" << s <<  "\"" << std::endl;
 
 	printString(s);
